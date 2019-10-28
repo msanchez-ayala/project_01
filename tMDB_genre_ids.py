@@ -1,4 +1,3 @@
-tMDB genre ids:
 {
   "genres": [
     {"id": 28, "name": "Action"},
