@@ -1,3 +1,3 @@
 host = 'flatiron.celaliqaishh.us-east-2.rds.amazonaws.com'
-user = 'guest'
+user = 'project_01'
 password = 'Mysqlguest1!'
