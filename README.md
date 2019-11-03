@@ -2,28 +2,12 @@
 
 partners: JP and Marco
 
+Our presentation is available here: https://docs.google.com/presentation/d/1AiYn8-suNwecW6ck1-zgObDRKwH37DnzM9DpgPITpSY/edit
 
-tMDB genre ids:
-{
-  "genres": [
-    {"id": 28, "name": "Action"},
-    {"id": 12, "name": "Adventure"},
-    {"id": 16, "name": "Animation"},
-    {"id": 35, "name": "Comedy"},
-    {"id": 80, "name": "Crime"},
-    {"id": 99, "name": "Documentary"},
-    {"id": 18, "name": "Drama"},
-    {"id": 10751, "name": "Family"},
-    {"id": 14, "name": "Fantasy"},
-    {"id": 36, "name": "History"},
-    {"id": 27, "name": "Horror"},
-    {"id": 10402, "name": "Music"},
-    {"id": 9648, "name": "Mystery"},
-    {"id": 10749, "name": "Romance"},
-    {"id": 878, "name": "Science Fiction"},
-    {"id": 10770, "name": "TV Movie"},
-    {"id": 53, "name": "Thriller"},
-    {"id": 10752, "name": "War"},
-    {"id": 37, "name": "Western"}
-  ]
-}
+We explored the horror film industry to see if studios should invest capital into horror film projects. We calculated the return on investment (ROI) for hundreds of movies across different genres to compare the risk of investing. We then examined several other factors such as release date, genre/subgenre, movie stars, and directors to see if we could make any concrete recommendations in that regard.
+
+We conclude the following:
+
+Horror films have more of an “all or nothing” risk/return profile (think VC). As such, if the studio is comfortable with this profile, then they should make Horror films!
+
+Action, drama, mystery, and thriller subgenres perform well. There is unfortunately no obvious trend in movie stars definitively affecting ROI. Finally, George Romero would be an incredible director to hire given his average ROI of almost 5000% over 8 movies. Unfortunately, he passed away in 2017.
